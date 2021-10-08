@@ -1,3 +1,4 @@
+```php
 $this->name = 'user-69';
 $this->age = 19;
 $this->location = 'Russia';
@@ -18,3 +19,4 @@ $this->education = [
                     'high school' => true,
                     'college' => false                  //3 out of 4 years
                     ];
+```
