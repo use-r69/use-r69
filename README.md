@@ -1,7 +1,7 @@
 ```php
 $this->name = 'user69';
-$this->age = 19;
-$this->location = 'Russia';
+$this->age = 20;
+$this->location = 'Russia/Altay';
 $this->specialization = 'web-dev';
 $this->langs = [
                 'ru' => 'C2',                           //native speaker
