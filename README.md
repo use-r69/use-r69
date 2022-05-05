@@ -1,5 +1,5 @@
 ```php
-$this->name = 'user-69';
+$this->name = 'user69';
 $this->age = 19;
 $this->location = 'Russia';
 $this->specialization = 'web-dev';
